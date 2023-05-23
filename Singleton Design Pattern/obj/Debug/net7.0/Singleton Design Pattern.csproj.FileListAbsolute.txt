@@ -1,0 +1,15 @@
+C:\Anshul Garg\Upskilling\Design Patterns\Singleton Design Pattern\bin\Debug\net7.0\Singleton Design Pattern.exe
+C:\Anshul Garg\Upskilling\Design Patterns\Singleton Design Pattern\bin\Debug\net7.0\Singleton Design Pattern.deps.json
+C:\Anshul Garg\Upskilling\Design Patterns\Singleton Design Pattern\bin\Debug\net7.0\Singleton Design Pattern.runtimeconfig.json
+C:\Anshul Garg\Upskilling\Design Patterns\Singleton Design Pattern\bin\Debug\net7.0\Singleton Design Pattern.dll
+C:\Anshul Garg\Upskilling\Design Patterns\Singleton Design Pattern\bin\Debug\net7.0\Singleton Design Pattern.pdb
+C:\Anshul Garg\Upskilling\Design Patterns\Singleton Design Pattern\obj\Debug\net7.0\Singleton Design Pattern.csproj.AssemblyReference.cache
+C:\Anshul Garg\Upskilling\Design Patterns\Singleton Design Pattern\obj\Debug\net7.0\Singleton Design Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Anshul Garg\Upskilling\Design Patterns\Singleton Design Pattern\obj\Debug\net7.0\Singleton Design Pattern.AssemblyInfoInputs.cache
+C:\Anshul Garg\Upskilling\Design Patterns\Singleton Design Pattern\obj\Debug\net7.0\Singleton Design Pattern.AssemblyInfo.cs
+C:\Anshul Garg\Upskilling\Design Patterns\Singleton Design Pattern\obj\Debug\net7.0\Singleton Design Pattern.csproj.CoreCompileInputs.cache
+C:\Anshul Garg\Upskilling\Design Patterns\Singleton Design Pattern\obj\Debug\net7.0\Singleton Design Pattern.dll
+C:\Anshul Garg\Upskilling\Design Patterns\Singleton Design Pattern\obj\Debug\net7.0\refint\Singleton Design Pattern.dll
+C:\Anshul Garg\Upskilling\Design Patterns\Singleton Design Pattern\obj\Debug\net7.0\Singleton Design Pattern.pdb
+C:\Anshul Garg\Upskilling\Design Patterns\Singleton Design Pattern\obj\Debug\net7.0\Singleton Design Pattern.genruntimeconfig.cache
+C:\Anshul Garg\Upskilling\Design Patterns\Singleton Design Pattern\obj\Debug\net7.0\ref\Singleton Design Pattern.dll
