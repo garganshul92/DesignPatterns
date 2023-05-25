@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Anshul Garg\\Upskilling\\Design Patterns\\DesignPatterns\\Singleton Design Pattern\\Singleton Design Pattern.csproj": {}
+    "C:\\Anshul Garg\\Upskilling\\Design Patterns\\DesignPatterns\\Factory Design Pattern\\Factory Design Pattern.csproj": {}
   },
   "projects": {
-    "C:\\Anshul Garg\\Upskilling\\Design Patterns\\DesignPatterns\\Singleton Design Pattern\\Singleton Design Pattern.csproj": {
+    "C:\\Anshul Garg\\Upskilling\\Design Patterns\\DesignPatterns\\Factory Design Pattern\\Factory Design Pattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Anshul Garg\\Upskilling\\Design Patterns\\DesignPatterns\\Singleton Design Pattern\\Singleton Design Pattern.csproj",
-        "projectName": "Singleton Design Pattern",
-        "projectPath": "C:\\Anshul Garg\\Upskilling\\Design Patterns\\DesignPatterns\\Singleton Design Pattern\\Singleton Design Pattern.csproj",
+        "projectUniqueName": "C:\\Anshul Garg\\Upskilling\\Design Patterns\\DesignPatterns\\Factory Design Pattern\\Factory Design Pattern.csproj",
+        "projectName": "Factory Design Pattern",
+        "projectPath": "C:\\Anshul Garg\\Upskilling\\Design Patterns\\DesignPatterns\\Factory Design Pattern\\Factory Design Pattern.csproj",
         "packagesPath": "C:\\Users\\Anshul_Garg\\.nuget\\packages\\",
-        "outputPath": "C:\\Anshul Garg\\Upskilling\\Design Patterns\\DesignPatterns\\Singleton Design Pattern\\obj\\",
+        "outputPath": "C:\\Anshul Garg\\Upskilling\\Design Patterns\\DesignPatterns\\Factory Design Pattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anshul_Garg\\AppData\\Roaming\\NuGet\\NuGet.Config",

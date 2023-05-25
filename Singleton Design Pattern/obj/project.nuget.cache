@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rNrAjwSW43VKvoUZ2lUPuJYsum3BSijbXFYXlu3W65+0wqfqwdo7fW2Ycs40X1caZnd2cMPqBmGD1FZr9mlTog==",
+  "dgSpecHash": "KwK/Nh5xGeHXrRRezO0s2LAGWys3FEZhAV7JZNiqZWL4lc79DbqMgtaXl7FruRCL8cPQHcnPoXUesPNnNvKufQ==",
   "success": true,
-  "projectFilePath": "C:\\Anshul Garg\\Upskilling\\Design Patterns\\Singleton Design Pattern\\Singleton Design Pattern.csproj",
+  "projectFilePath": "C:\\Anshul Garg\\Upskilling\\Design Patterns\\DesignPatterns\\Singleton Design Pattern\\Singleton Design Pattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
