@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = ProtoType_Design_Pattern
-build_property.ProjectDir = c:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\ProtoType Design Pattern\
+build_property.RootNamespace = BuilderDesignPattern
+build_property.ProjectDir = C:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\BuilderDesignPattern\
