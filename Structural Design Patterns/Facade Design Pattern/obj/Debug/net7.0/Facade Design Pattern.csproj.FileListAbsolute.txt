@@ -1,0 +1,15 @@
+C:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\Structural Design Patterns\Facade Design Pattern\bin\Debug\net7.0\Facade Design Pattern.exe
+C:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\Structural Design Patterns\Facade Design Pattern\bin\Debug\net7.0\Facade Design Pattern.deps.json
+C:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\Structural Design Patterns\Facade Design Pattern\bin\Debug\net7.0\Facade Design Pattern.runtimeconfig.json
+C:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\Structural Design Patterns\Facade Design Pattern\bin\Debug\net7.0\Facade Design Pattern.dll
+C:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\Structural Design Patterns\Facade Design Pattern\bin\Debug\net7.0\Facade Design Pattern.pdb
+C:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\Structural Design Patterns\Facade Design Pattern\obj\Debug\net7.0\Facade Design Pattern.csproj.AssemblyReference.cache
+C:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\Structural Design Patterns\Facade Design Pattern\obj\Debug\net7.0\Facade Design Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\Structural Design Patterns\Facade Design Pattern\obj\Debug\net7.0\Facade Design Pattern.AssemblyInfoInputs.cache
+C:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\Structural Design Patterns\Facade Design Pattern\obj\Debug\net7.0\Facade Design Pattern.AssemblyInfo.cs
+C:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\Structural Design Patterns\Facade Design Pattern\obj\Debug\net7.0\Facade Design Pattern.csproj.CoreCompileInputs.cache
+C:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\Structural Design Patterns\Facade Design Pattern\obj\Debug\net7.0\Facade Design Pattern.dll
+C:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\Structural Design Patterns\Facade Design Pattern\obj\Debug\net7.0\refint\Facade Design Pattern.dll
+C:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\Structural Design Patterns\Facade Design Pattern\obj\Debug\net7.0\Facade Design Pattern.pdb
+C:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\Structural Design Patterns\Facade Design Pattern\obj\Debug\net7.0\Facade Design Pattern.genruntimeconfig.cache
+C:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\Structural Design Patterns\Facade Design Pattern\obj\Debug\net7.0\ref\Facade Design Pattern.dll
