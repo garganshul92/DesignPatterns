@@ -1,0 +1,15 @@
+C:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\Structural Design Patterns\Proxy Design Pattern\bin\Debug\net7.0\Proxy Design Pattern.exe
+C:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\Structural Design Patterns\Proxy Design Pattern\bin\Debug\net7.0\Proxy Design Pattern.deps.json
+C:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\Structural Design Patterns\Proxy Design Pattern\bin\Debug\net7.0\Proxy Design Pattern.runtimeconfig.json
+C:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\Structural Design Patterns\Proxy Design Pattern\bin\Debug\net7.0\Proxy Design Pattern.dll
+C:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\Structural Design Patterns\Proxy Design Pattern\bin\Debug\net7.0\Proxy Design Pattern.pdb
+C:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\Structural Design Patterns\Proxy Design Pattern\obj\Debug\net7.0\Proxy Design Pattern.csproj.AssemblyReference.cache
+C:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\Structural Design Patterns\Proxy Design Pattern\obj\Debug\net7.0\Proxy Design Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\Structural Design Patterns\Proxy Design Pattern\obj\Debug\net7.0\Proxy Design Pattern.AssemblyInfoInputs.cache
+C:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\Structural Design Patterns\Proxy Design Pattern\obj\Debug\net7.0\Proxy Design Pattern.AssemblyInfo.cs
+C:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\Structural Design Patterns\Proxy Design Pattern\obj\Debug\net7.0\Proxy Design Pattern.csproj.CoreCompileInputs.cache
+C:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\Structural Design Patterns\Proxy Design Pattern\obj\Debug\net7.0\Proxy Design Pattern.dll
+C:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\Structural Design Patterns\Proxy Design Pattern\obj\Debug\net7.0\refint\Proxy Design Pattern.dll
+C:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\Structural Design Patterns\Proxy Design Pattern\obj\Debug\net7.0\Proxy Design Pattern.pdb
+C:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\Structural Design Patterns\Proxy Design Pattern\obj\Debug\net7.0\Proxy Design Pattern.genruntimeconfig.cache
+C:\Anshul Garg\Upskilling\Design Patterns\DesignPatterns\Structural Design Patterns\Proxy Design Pattern\obj\Debug\net7.0\ref\Proxy Design Pattern.dll
