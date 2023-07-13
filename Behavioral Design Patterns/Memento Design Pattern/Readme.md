@@ -1,6 +1,6 @@
 ## Definition
 
-The Memento design pattern creates a snapshot of the internal state of an object at any instant of time and makes it available for access externally. A Memento is an object that captures another object’s state, the Originator. 
+The Memento design pattern creates a snapshot of the internal state of an object at any instant of time and makes it available for access externally. A Memento is an object that captures another objectâ€™s state, the Originator. 
 
 ## Problem it solves
 
@@ -24,4 +24,5 @@ CareTaker: The mechanism that asks for the Memento, safeguards it, and passes it
 
 ## UML
 
+![UML](https://github.com/garganshul92/DesignPatterns/assets/42866822/8fa02a2f-4185-4634-a284-f60856d71c1d)
 
