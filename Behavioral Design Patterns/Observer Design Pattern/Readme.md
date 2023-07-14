@@ -7,7 +7,8 @@ The Observer design pattern is a behavioral pattern that defines a one-to-many r
 ## Problem it solves
 
 - Freqeuntly checking for state change of Subject.
-- Wastage of resources in updating for the change of state to all the Clients/Observers.
+- Wastage of resources in updating for the change of state to all the Clients/Observers including ones who are not interested.
+- Problem to client for the updates in which they are not interested.
 
 ## When to use?
 
