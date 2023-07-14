@@ -15,10 +15,10 @@ The Observer design pattern is a behavioral pattern that defines a one-to-many r
 
 ## Paritipants
 
-- Subject: Subject refers to the service which the observers will observe and any change in whose state will impact the observers. It is an interface or an abstract class with defined methods to add, remove and notify the subscribers.
-- ConcreteSubject: The ConcreteSubject is responsible for keeping track of the Subject’s state and notifying the observers about any change in it.
-- Observer – An interface that updates the status of observers.
-- ConcreteObserver – Implements the Observer interface and changes the observers’ state with the Subject’s state.
+- **Subject**: Subject refers to the service which the observers will observe and any change in whose state will impact the observers. It is an interface or an abstract class with defined methods to add, remove and notify the subscribers.
+- **ConcreteSubject**: The ConcreteSubject is responsible for keeping track of the Subject’s state and notifying the observers about any change in it.
+- **Observer** – An interface that updates the status of observers.
+- **ConcreteObserver** – Implements the Observer interface and changes the observers’ state with the Subject’s state.
 
 ## UML
 ![image](https://github.com/garganshul92/DesignPatterns/assets/42866822/7c3289e2-7b85-410f-837c-cda1a8a1d8db)
