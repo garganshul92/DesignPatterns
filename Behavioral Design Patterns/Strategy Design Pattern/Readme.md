@@ -18,10 +18,11 @@ Also known as Policy Design Pattern.
 
 ## Paritipants
 
-- **Context** – maintains the reference to a Strategy object.
-- **State** – defines an interface common to all strategy implementations.
-- **Concrete State** – implements the Strategy interface.
+- **Context** â€“ maintains the reference to a Strategy object.
+- **State** â€“ defines an interface common to all strategy implementations.
+- **Concrete State** â€“ implements the Strategy interface.
 
 ## UML
 
+![image](https://github.com/garganshul92/DesignPatterns/assets/42866822/b062bd11-8a4a-45e7-a0d7-db1987c1a83f)
 
